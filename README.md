@@ -1,6 +1,6 @@
 # Clean Architecture
 
-[About](https://medium.com/@thekingoftech/aplicando-clean-architecture-flutter-bloc-api-rest-ddeee64d381e)
+[About...](https://medium.com/@thekingoftech/aplicando-clean-architecture-flutter-bloc-api-rest-ddeee64d381e)
 
 ![alt text](./images/clean-arch-1.png "image Title")
 
